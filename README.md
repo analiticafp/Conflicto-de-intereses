@@ -128,8 +128,16 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
  <li type="circle">444</li>
 </ul>
  <h2>Recomendaciones</h2>
+   <p>111</>
+     
  <h2>Bibliografía</h2>  
-            
+    <ul>
+ <li type="circle">111</li>
+ <li type="circle">222</li>
+ <li type="circle">333</li>
+ <li type="circle">444</li>
+   </ul>    
+  
 ```python
 from contexto.limpieza import *
 ```
