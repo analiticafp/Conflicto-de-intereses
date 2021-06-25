@@ -95,8 +95,10 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
 <b>Alcance:</b>  Para este ejercicio se aplicarán técnicas de mineria de datos a la información de la base de datos más reciente del aplicativo, correspondiente a aquellos sujetos obligados (persona natural y jurídica) que manifestaron un posible conflicto de interes en el formulario dispuesto para tal fin.</p>
 
 <h2>Recursos tecnológicos del proyecto</h2>
-<h3>Descripción de software</h3>
 <table>
+   <tr>
+    <th colspan="3">Descripción de software</th>
+  </tr>
   <tr>
     <th>Software</th>
     <th>Justificación</th>
