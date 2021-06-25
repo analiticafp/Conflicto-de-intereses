@@ -34,6 +34,21 @@
 Con el fin de que los sujetos obligados realicen sus declaraciones, este aplicativo presenta formularios diferenciados para persona natural y jurídica, divididos por secciones (información general, declaración de bienes y rentas, posibles conflictos de interes e impuesto sobre la renta y complementarios) en las cuales deben registrar su información en los términos descritos por la ley.</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <th colspan="3">Estado del arte</th>
+  </tr>
+  <tr>
+    <th>Título</th>
+    <th>Descripción/Resumen</th>
+    <th>Referencia Bibliográfica</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Two</td>
+    <td>Two</td>
+  </tr>
+</table>  
 
 <div>
 <h2>Objetivos</h2>
