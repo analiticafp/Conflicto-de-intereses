@@ -11,7 +11,7 @@
  <li type="circle">Maritza Ibarra Duarte, Analista de datos,  mibarra@funcionpublica.gov.co</li>
  <li type="circle">Camilo Alejandro Tamayo Quintana, Analista de datos,  ctamayo@funcionpublica.gov.co</li>
  <li type="circle">Leonardo Sanchez Acuña, Analista de negocio, lsanchez@funcionpublica.gov.co</li>
- <li type="circle">Miguel Sebastian Rincon Ortega, Analista de datos, mricon@funcionpublica.gov.co</li>
+ <li type="circle">Miguel Sebastian Rincon Ortega, Analista de datos, mrincon@funcionpublica.gov.co</li>
 </ul>
   
 <h2>Resumen</h2>
