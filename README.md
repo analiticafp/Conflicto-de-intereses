@@ -121,25 +121,6 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
  <h2>Conclusiones</h2>
  <h2>Recomendaciones</h2>
  <h2>Bibliografía</h2>  
-      
- 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
-
-
-<html>
-            
-<head>
-<title>Mi pagina</title>
-             
-</head>
             
 ```python
 from contexto.limpieza import *
