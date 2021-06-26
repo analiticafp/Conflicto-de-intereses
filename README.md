@@ -117,9 +117,11 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
 </table>
 
  
- <h2>Presentación y análisis de resultados</h2>   
-   <p>111</>P
+ <h2>Presentación y análisis de resultados</h2>
    
+   <p>111</>P
+ <h3>Minería de texto</h3> 
+   <p>111</>P
  <h2>Conclusiones</h2>
    <ul>
  <li type="circle">111</li>
