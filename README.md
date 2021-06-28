@@ -277,17 +277,17 @@ cluster.fit(tfidf)
     <tr>
      <td>Organización, sociedad o asociación a la cual perteneció o continúa siendo miembro</td>
      <td>Que el servidor sea socio de alguna de las personas interesadas en la actuación administrativa o su representante o apoderado en sociedad de personas.</td>
-     <td</td>
+     <td>4, 6</td>
    </tr>
     <tr>
      <td>Lista de candidatos</td>
      <td>Que el servidor haya hecho parte de listas de candidatos a cuerpos colegiados de elección popular inscritas o integradas también por el interesado en el período electoral coincidente con la actuación administrativa o en alguno de los dos períodos anteriores.</td>
-     <td</td>
+     <td>2</td>
    </tr>
    <tr>
      <td>Relación contractual o de negocios</td>
      <td>Que alguno de los interesados en la actuación administrativa sea representante, apoderado, dependiente, mandatario o administrador de los negocios del servidor público</td>
-     <td</td>
+     <td>3, 5</td>
    </tr>
    </table> 
    
