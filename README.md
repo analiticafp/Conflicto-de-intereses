@@ -267,6 +267,30 @@ cluster.fit(tfidf)
     <td>0,0692</td>
   </tr>
 </table>
+   <p>Basándose en las palabras mas frecuentes es posible realizar la clasificación de registros teniendo en cuenta la guía de conflicto de intereses proporcionada por la Entidad, así:</p>
+ <table> 
+   <tr>
+     <th>Clasificación</th>
+     <th>Descripción </th>
+     <th>Grupo</th>
+   </tr>
+    <tr>
+     <td>Organización, sociedad o asociación a la cual perteneció o continúa siendo miembro</td>
+     <td>Que el servidor sea socio de alguna de las personas interesadas en la actuación administrativa o su representante o apoderado en sociedad de personas.</td>
+     <td</td>
+   </tr>
+    <tr>
+     <td>Lista de candidatos</td>
+     <td>Que el servidor haya hecho parte de listas de candidatos a cuerpos colegiados de elección popular inscritas o integradas también por el interesado en el período electoral coincidente con la actuación administrativa o en alguno de los dos períodos anteriores.</td>
+     <td</td>
+   </tr>
+   <tr>
+     <td>Relación contractual o de negocios</td>
+     <td>Que alguno de los interesados en la actuación administrativa sea representante, apoderado, dependiente, mandatario o administrador de los negocios del servidor público</td>
+     <td</td>
+   </tr>
+   </table> 
+   
   
  <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente.....</p>
