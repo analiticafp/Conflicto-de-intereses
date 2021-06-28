@@ -204,7 +204,58 @@ vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=
 cluster = KMeans(n_clusters=6, init='k-means++',max_iter = 1500)
 cluster.fit(tfidf)
 ```
- 
+<table>
+  <tr>
+    <th>actividades (agricolas, comerciales, economicas…)</th>
+    <th>empresas vinculos</th>
+    <th>hace parte (listas candidatos…)</th>
+    <th>sas (empresas)</th>
+    <th>sociedad</th>
+  </tr>
+  <tr>
+    <td>8,32667268468867E-17</td>
+    <td>-2,4980018054066E-16</td>
+    <td>-1,2490009027033E-16</td>
+    <td>-1,38777878078145E-17</td>
+    <td>1,2490009027033E-16</td>
+  </tr>
+  <tr>
+    <td>0,0329707633955503</td>
+    <td>2,77555756156289E-17</td>
+    <td>0,987759436585767</td>
+    <td>-1,38777878078145E-17</td>
+    <td>-1,38777878078145E-17</td>
+  </tr>
+  <tr>
+    <td>0,99202458868779</td>
+    <td>0,0146607980510248</td>
+    <td>-2,77555756156289E-17</td>
+    <td>0,00489141461539684</td>
+    <td>0,0122431949303902</td>
+  </tr>
+  <tr>
+    <td>0,277201938014954</td>
+    <td>0,0176940262163457</td>
+    <td>0,0272170510574187</td>
+    <td>0,00831022586412038</td>
+    <td>0,893839984371847</td>
+  </tr>
+  <tr>
+    <td>0,0909054729686905</td>
+    <td>0,2316958430229</td>
+    <td>0,0322757964037527</td>
+    <td>0,794825267705512</td>
+    <td>0,209175063744775</td>
+  </tr>
+  <tr>
+    <td>0,0645872519199415</td>
+    <td>0,932195459998442</td>
+    <td>0,0433804269506335</td>
+    <td>0,0257098584302182</td>
+    <td>0,0692726859378456</td>
+  </tr>
+</table>
+  
  <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente.....</p>
     
