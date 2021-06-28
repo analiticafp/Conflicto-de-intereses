@@ -144,19 +144,25 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   </tr>
   <tr>
     <td>DONACIONES</td>
-    <td>.</td>
+    <td>307</td>
     <td>.</td>
     <td>.</td>
   </tr>
    <tr>
     <td>CI_PARIENTES</td>
-    <td>.</td>
+    <td>10801</td>
     <td>.</td>
     <td>.</td>
   </tr>
   <tr>
     <td>POSIBLES_CI</td>
+    <td>135442</td>
+    <td>807</td>
     <td>.</td>
+  </tr>
+   <tr>
+    <td>CI_INFO_PJ</td>
+    <td>2036</td>
     <td>.</td>
     <td>.</td>
   </tr>
