@@ -319,7 +319,3 @@ cluster.fit(tfidf)
  <li type="circle">333</li>
  <li type="circle">444</li>
    </ul>    
-  
-```python
-from contexto.limpieza import *
-```
