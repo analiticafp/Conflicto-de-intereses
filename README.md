@@ -196,7 +196,7 @@ vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=
  <div align="center">
    <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/22dca21223dc43a61d82f2dbfb15d0f2bf575ea5/img/codo.png" alt="Método del codo">
  </div>
- <p>Se realizan 6 grupos y se entena el modelo.</p>
+ <p>Se realizan 6 grupos y se entrena el modelo.</p>
  
 ```python
 cluster = KMeans(n_clusters=6, init='k-means++',max_iter = 1500)
