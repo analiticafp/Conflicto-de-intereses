@@ -138,7 +138,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   </tr>
   <tr>
     <td>CONYUGE_COMPANERO</td>
-    <td>.</td>
+    <td>133406</td>
     <td>.</td>
     <td>.</td>
   </tr>
