@@ -289,6 +289,11 @@ cluster.fit(tfidf)
      <td>Que alguno de los interesados en la actuación administrativa sea representante, apoderado, dependiente, mandatario o administrador de los negocios del servidor público</td>
      <td>3, 5</td>
    </tr>
+      <tr>
+     <td>Otros</td>
+     <td>No fue posible categorizarlos por las descripciones proporcionadas por el usuario.</td>
+     <td>1</td>
+   </tr>
    </table> 
    
   
