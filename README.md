@@ -44,9 +44,9 @@ Con el fin de que los sujetos obligados realicen sus declaraciones, este aplicat
     <th>Referencia Bibliográfica</th>
   </tr>
   <tr>
-    <td>1.</td>
-    <td>Two</td>
-    <td>Two</td>
+    <td>CLASIFICACIÓN DE DOCUMENTOS DEL DIARIO OFICIAL MEDIANTE ANÁLISIS DE TEXTO – ACTUALIZACIÓN</td>
+    <td>Se actualizó el modelo para clasificar la producción normativa emitida por el Diario Oficial en 9 sectores productivos, mediante la lectura, limpieza y procesamiento de textos con los cuales se entrenaron numerosos modelos de aprendizaje de máquina.</td>
+    <td>https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Digital/Big%20Data/2020/03_Mejora_regulatoria_2020/Mejora_regulatoria_2020_Informe.pdf</td>
   </tr>
 </table>  
 
