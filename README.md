@@ -158,7 +158,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
     <td>POSIBLES_CI</td>
     <td>135442</td>
     <td>807</td>
-    <td>.</td>
+    <td>Se filtran los registros cuyo estado es finalizado o en revisión, además de los registros donde posible conflicto es “SÍ”. Por otro lado, existen casos donde en la descripción hay caracteres especiales o mencionan ninguno o no tengo, algunos de estos casos fueron excluidos.</td>
   </tr>
    <tr>
     <td>CI_INFO_PJ</td>
