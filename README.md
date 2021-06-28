@@ -140,20 +140,20 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   <tr>
     <td>CONYUGE_COMPANERO</td>
     <td>133406</td>
-    <td>N/A</td>
-    <td>.</td>
+    <td>0</td>
+    <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
   <tr>
     <td>DONACIONES</td>
     <td>307</td>
-    <td>N/A</td>
-    <td>.</td>
+    <td>0</td>
+    <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
    <tr>
     <td>CI_PARIENTES</td>
     <td>10801</td>
-    <td>N/A</td>
-    <td>.</td>
+    <td>0</td>
+    <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
   <tr>
     <td>POSIBLES_CI</td>
