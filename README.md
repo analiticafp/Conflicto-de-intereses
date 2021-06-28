@@ -155,8 +155,9 @@ vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=
 ```
    <p>Para agrupar las descripciones se utilizó kmeans como modelo, para una búsqueda de similaridades teniendo en cuenta todas las características según parámetros de aparición.</p>
    
-   <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/16a1c1133735c5bdef2527b96ec502e8b0e6f63d/img/layout_set_logo.png" align="center" alt="Función Pública">
-   
+ <div>
+   <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/22dca21223dc43a61d82f2dbfb15d0f2bf575ea5/img/codo.png" align="center" alt="Función Pública">
+ </div>
    
  <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente.....</p>
