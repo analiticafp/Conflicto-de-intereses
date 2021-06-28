@@ -148,6 +148,13 @@ from nltk.stem import SnowballStemmer
    
    <p>Realizado el proceso de limpieza del texto con las librerías y funciones (Ver <a href="https://github.com/analiticafp/Conflicto-de-intereses/blob/4086e130ef53886f52c725e1d28c1b275e33d2ae/Descripcion_analisis_texto.ipynb">Descripcion_analisis_texto.ipynb</a>) se transforma a una representación numérica (indexa miento) para que pueda ser procesado con técnicas de aprendizaje automático, esto se logra con el enfoque de bolsa de palabras y utilizando el algoritmo TF-IDF, medida estadística utilizada para evaluar la importancia de una palabra para un documento y para el conjunto de documentos.</p>
    
+  
+   ```python
+from sklearn.feature_extraction.text import TfidfVectorizer
+vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=(1, 1))  
+```
+   <p>Para agrupar las descripciones se utilizó kmeans como modelo, para una búsqueda de similaridades teniendo en cuenta todas las características según parámetros de aparición.</p>
+   
    
  <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente.....</p>
