@@ -226,14 +226,14 @@ cluster.fit(tfidf)
     <td>78</td>
     <td>0,0329</td>
     <td>2,7755E-17</td>
-    <td>0,9877</td>
+    <td><b>0,9877</b></td>
     <td>-1,3877E-17</td>
     <td>-1,3877E-17</td>
   </tr>
   <tr>
     <td>3</td>
     <td>65</td>
-    <td>0,9920</td>
+    <td><b>0,9920</b></td>
     <td>0,0146</td>
     <td>-2,7755E-17</td>
     <td>0,0048</td>
@@ -246,7 +246,7 @@ cluster.fit(tfidf)
     <td>0,0176</td>
     <td>0,0272</td>
     <td>0,0083</td>
-    <td>0,8938</td>
+    <td><b>0,8938</b></td>
   </tr>
   <tr>
     <td>5</td>
@@ -254,14 +254,14 @@ cluster.fit(tfidf)
     <td>0,0909</td>
     <td>0,2316</td>
     <td>0,0322</td>
-    <td>0,7948</td>
+    <td><b>0,7948</b></td>
     <td>0,209</td>
   </tr>
   <tr>
     <td>6</td>
     <td>48</td>
     <td>0,0645</td>
-    <td><b><mark>0,9321</mark></b></td>
+    <td><b>0,9321</b></td>
     <td>0,0433</td>
     <td>0,0257</td>
     <td>0,0692</td>
