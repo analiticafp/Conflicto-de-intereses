@@ -127,8 +127,22 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
    
  <h3>Validación de datos</h3>
  
-   
-   
+   <p>111</>P
+     
+   <table>
+  <tr>
+    <th>Hoja en archivo excel </th>
+    <th>Número total de registros</th>
+    <th>Registros usados para ejercicio</th>
+    <th>Descripción de problemas encontrados</th>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+   </table>
    
    <p>111</>P
  <h3>Minería de texto</h3> 
