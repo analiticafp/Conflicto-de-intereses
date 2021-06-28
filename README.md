@@ -206,6 +206,7 @@ cluster.fit(tfidf)
 ```
 <table>
   <tr>
+    <th>Cluster</th>
     <th>actividades (agricolas, comerciales, economicas…)</th>
     <th>empresas vinculos</th>
     <th>hace parte (listas candidatos…)</th>
@@ -213,6 +214,7 @@ cluster.fit(tfidf)
     <th>sociedad</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>8,32667268468867E-17</td>
     <td>-2,4980018054066E-16</td>
     <td>-1,2490009027033E-16</td>
@@ -220,6 +222,7 @@ cluster.fit(tfidf)
     <td>1,2490009027033E-16</td>
   </tr>
   <tr>
+    <td>2</td>
     <td>0,0329707633955503</td>
     <td>2,77555756156289E-17</td>
     <td>0,987759436585767</td>
@@ -227,6 +230,7 @@ cluster.fit(tfidf)
     <td>-1,38777878078145E-17</td>
   </tr>
   <tr>
+    <td>3</td>
     <td>0,99202458868779</td>
     <td>0,0146607980510248</td>
     <td>-2,77555756156289E-17</td>
@@ -234,6 +238,7 @@ cluster.fit(tfidf)
     <td>0,0122431949303902</td>
   </tr>
   <tr>
+    <td>4</td>
     <td>0,277201938014954</td>
     <td>0,0176940262163457</td>
     <td>0,0272170510574187</td>
@@ -241,6 +246,7 @@ cluster.fit(tfidf)
     <td>0,893839984371847</td>
   </tr>
   <tr>
+    <td>5</td>
     <td>0,0909054729686905</td>
     <td>0,2316958430229</td>
     <td>0,0322757964037527</td>
@@ -248,6 +254,7 @@ cluster.fit(tfidf)
     <td>0,209175063744775</td>
   </tr>
   <tr>
+    <td>6</td>
     <td>0,0645872519199415</td>
     <td>0,932195459998442</td>
     <td>0,0433804269506335</td>
