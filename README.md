@@ -146,7 +146,7 @@ from nltk.stem import SnowballStemmer
    def stemmer(x)
 ```
    
-   <p>Realizado el proceso de limpieza del texto se transforma a una representación numérica (indexa miento) para que pueda ser procesado con técnicas de aprendizaje automático, esto se logra con el enfoque de bolsa de palabras y utilizando el algoritmo TF-IDF (Term Frequency – Inverse Document Frequency), medida estadística utilizada para evaluar la importancia de una palabra para un documento y para el conjunto de documentos.</p>
+   <p>Realizado el proceso de limpieza del texto con las librerías y funciones (Ver <a href="https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Digital/Big%20Data/2020/03_Mejora_regulatoria_2020/Mejora_regulatoria_2020_Informe.pdf">Descripcion_analisis_texto.ipynb</a>) se transforma a una representación numérica (indexa miento) para que pueda ser procesado con técnicas de aprendizaje automático, esto se logra con el enfoque de bolsa de palabras y utilizando el algoritmo TF-IDF, medida estadística utilizada para evaluar la importancia de una palabra para un documento y para el conjunto de documentos.</p>
    
    
  <h2>Conclusiones</h2>
