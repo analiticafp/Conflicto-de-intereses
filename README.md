@@ -137,7 +137,25 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
     <th>Descripción de problemas encontrados</th>
   </tr>
   <tr>
+    <td>CONYUGE_COMPANERO</td>
     <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>DONACIONES</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+   <tr>
+    <td>CI_PARIENTES</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>POSIBLES_CI</td>
     <td>.</td>
     <td>.</td>
     <td>.</td>
