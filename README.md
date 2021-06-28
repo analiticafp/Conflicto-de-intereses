@@ -139,19 +139,19 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   <tr>
     <td>CONYUGE_COMPANERO</td>
     <td>133406</td>
-    <td>.</td>
+    <td>N/A</td>
     <td>.</td>
   </tr>
   <tr>
     <td>DONACIONES</td>
     <td>307</td>
-    <td>.</td>
+    <td>N/A</td>
     <td>.</td>
   </tr>
    <tr>
     <td>CI_PARIENTES</td>
     <td>10801</td>
-    <td>.</td>
+    <td>N/A</td>
     <td>.</td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
    <tr>
     <td>CI_INFO_PJ</td>
     <td>2036</td>
-    <td>.</td>
+    <td>N/A</td>
     <td>.</td>
   </tr>
    </table>
