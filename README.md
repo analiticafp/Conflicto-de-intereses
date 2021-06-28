@@ -15,7 +15,8 @@
 </ul>
   
 <h2>Resumen</h2>
-  <p> que se hizo, para que, y como se hizo </p>
+<p>Para el desarrollo de este ejercicio se tomó el reporte de ley 2013 y conflictos de interés diligenciado por los sujetos obligados para el periodo de 2021, con el fin de identificar y clasificar los posibles conflictos de interés que se puedan generar, para lo cual se utilizo minería de texto para extraer aquella frases y palabras que nos describieran el posible conflicto de interés y finalmente se agruparon por categorías.</p>
+  
 <h2>Problema</h2>
 <p>Actualmente, según lo establece la Ley 2013 de 2019, Función Pública captura en el aplicativo dispuesto para ello, la infomación de declaraciones de bienes, rentas y conflictos de intereses de los sujetos obligados a declarar, la cual es un insumo importante para el desarrollo de acciones en torno a las políticas de transparencia, integridad, rendición de cuentas y control social; sin embargo, esta información, en particular la correspondiente a los posibles conflictos de interés, no es de fácil interpretación y no está siendo procesada ni analizada, dado que esto demanda tiempo y recursos para realizarlo.</p>
 
@@ -196,7 +197,7 @@ vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=
  <div align="center">
    <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/22dca21223dc43a61d82f2dbfb15d0f2bf575ea5/img/codo.png" alt="Método del codo">
  </div>
- <p>Se realizan 6 grupos y se entrena el modelo.</p>
+ <p>Se realizan 6 grupos y se entena el modelo.</p>
  
 ```python
 cluster = KMeans(n_clusters=6, init='k-means++',max_iter = 1500)
