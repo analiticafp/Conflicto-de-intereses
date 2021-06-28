@@ -127,8 +127,6 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
  <h2>Presentación y análisis de resultados</h2>
    
  <h3>Validación de datos</h3>
- 
-   <p>111</>P
      
    <table>
   <tr>
