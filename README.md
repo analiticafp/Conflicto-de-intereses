@@ -139,7 +139,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   </tr>
   <tr>
     <td>CONYUGE_COMPANERO</td>
-    <td>133406</td>
+    <td>133.406</td>
     <td>0</td>
     <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
@@ -151,27 +151,28 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   </tr>
    <tr>
     <td>CI_PARIENTES</td>
-    <td>10801</td>
+    <td>10.801</td>
     <td>0</td>
     <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
   <tr>
     <td>POSIBLES_CI</td>
-    <td>135442</td>
+    <td>135.442</td>
     <td>807</td>
     <td>Se filtran los registros cuyo estado es finalizado o en revisión, además de los registros donde posible conflicto es “SÍ”. Por otro lado, existen casos donde en la descripción hay caracteres especiales o mencionan ninguno o no tengo, algunos de estos casos fueron excluidos.</td>
   </tr>
    <tr>
     <td>CI_INFO_PJ</td>
-    <td>2036</td>
-    <td>N/A</td>
-    <td>.</td>
+    <td>2.036</td>
+    <td>0</td>
+    <td>La información disponible en la descripción no cumple con los criterios para mineria de texto</td>
   </tr>
    </table>
    
-   <p>111</>P
- <h3>Minería de texto</h3> 
-   <p>Después de seleccionar las descripciones presentes en el conflicto de interés se realizó un proceso de limpieza donde se convierten las palabras a minúsculas, se quitan espacios en blanco innecesarios, se remueven puntuación y caracteres especiales, se eliminan las palabras vacías como artículos y preposiciones, además se reduce la palabra a su raíz para no sobredimensionar al modelo.</p>
+<p>Como se observa en la tabla anterior del total de registros de la base de datos se trabajara únicamente con 807 registros que describen los posibles conflictos de intrés</>P
+ 
+<h3>Minería de texto</h3> 
+<p>Después de seleccionar las descripciones presentes en el conflicto de interés se realizó un proceso de limpieza donde se convierten las palabras a minúsculas, se quitan espacios en blanco innecesarios, se remueven puntuación y caracteres especiales, se eliminan las palabras vacías como artículos y preposiciones, además se reduce la palabra a su raíz para no sobredimensionar al modelo.</p>
    
    ```python
 import re
