@@ -169,7 +169,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
   </tr>
    </table>
    
-<p>Como se observa en la tabla anterior del total de registros de la base de datos se trabajara únicamente con 807 registros que describen los posibles conflictos de intrés</>P
+<p>Como se observa en la tabla anterior del total de registros de la base de datos se trabajara únicamente con 807 registros que describen los posibles conflictos de intrés</>
  
 <h3>Minería de texto</h3> 
 <p>Después de seleccionar las descripciones presentes en el conflicto de interés se realizó un proceso de limpieza donde se convierten las palabras a minúsculas, se quitan espacios en blanco innecesarios, se remueven puntuación y caracteres especiales, se eliminan las palabras vacías como artículos y preposiciones, además se reduce la palabra a su raíz para no sobredimensionar al modelo.</p>
