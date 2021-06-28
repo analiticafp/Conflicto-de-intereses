@@ -155,8 +155,8 @@ vectorizer = TfidfVectorizer(max_features=50,max_df=0.9,min_df=0.09,ngram_range=
 ```
    <p>Para agrupar las descripciones se utilizó kmeans como modelo, para una búsqueda de similaridades teniendo en cuenta todas las características según parámetros de aparición.</p>
    
- <div>
-   <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/22dca21223dc43a61d82f2dbfb15d0f2bf575ea5/img/codo.png" align="center" alt="Función Pública">
+ <div align="center">
+   <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/22dca21223dc43a61d82f2dbfb15d0f2bf575ea5/img/codo.png" alt="Método del codo">
  </div>
    
  <h2>Conclusiones</h2>
