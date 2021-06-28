@@ -1,6 +1,6 @@
 <div class="row">
   <div class="column"><img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/16a1c1133735c5bdef2527b96ec502e8b0e6f63d/img/layout_set_logo.png" align="left" alt="Función Pública"></div>
-  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Mayo de 2021</div>
+  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Junio de 2021</div>
 </div>
 
 <br>
@@ -281,7 +281,7 @@ cluster.fit(tfidf)
  <h2>Bibliografía</h2>  
     <ul>
  <li type="circle">[Steven Bid, Edwan Klein & Edward Loper] <i>Natural Language Processing with Python</i>. O'REILLY, 2009.</li>
- <li type="circle">222</li>
+ <li type="circle">[Dirección de Participación, Transparencia y Servicio al Ciudadano] <i>Guía para la identificación y declaración del conflicto de intereses en el sector público colombiano</i>. Función Pública, 2019.</li>
  <li type="circle">333</li>
  <li type="circle">444</li>
    </ul>    
