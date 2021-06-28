@@ -261,7 +261,7 @@ cluster.fit(tfidf)
     <td>6</td>
     <td>48</td>
     <td>0,0645</td>
-    <td><b>0,9321</b></td>
+    <td><b><mark>0,9321</mark></b></td>
     <td>0,0433</td>
     <td>0,0257</td>
     <td>0,0692</td>
