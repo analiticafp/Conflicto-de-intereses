@@ -297,16 +297,19 @@ cluster.fit(tfidf)
    </table> 
    
   
- <h2>Conclusiones</h2>
-<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente.....</p>
+<h2>Conclusiones</h2>
+<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
     
- <li type="circle">Se categorizaron 306 descripciones de posibles bajo tres posibles conflictos de intereses estipulados en la guía de identificación proporcionada por la Entidad como resultado del tratamiento y modelado con la técnica Kmeans.</li>
+<li type="circle">Se categorizaron 306 descripciones de posibles bajo tres posibles conflictos de intereses estipulados en la guía de identificación proporcionada por la Entidad como resultado del tratamiento y modelado con la técnica Kmeans.</li>
    
- <li type="circle"></Del total de registros analizados y el resultado de los grupos se identifica que en el primer grupo en el cual se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.li>
+<li type="circle"></Del total de registros analizados y el resultado de los grupos se identifica que en el primer grupo en el cual se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.li>
   
- <li type="circle">Para el conflicto de interés clasificado como pertenencia a asociaciones o sociedades, se encontró que se pueden unir los grupos 4 y 6 para un total de 95 registros para los cuales el análisis identifico que dentro de la descripción del posible conflicto de interés están presentes las palabras sociedad y empresas o vínculos</li>
+<li type="circle">Para el conflicto de interés clasificado como pertenencia a asociaciones o sociedades, se encontró que se pueden unir los grupos 4 y 6 para un total de 95 registros para los cuales el análisis identifico que dentro de la descripción del posible conflicto de interés están presentes las palabras sociedad y empresas o vínculos</li>
   
- <li type="circle">444</li>
+<li type="circle">Se identifico un posible conflicto de interés relacionado con relación contractual o de negocios para el cual se unieron los registros del grupo 3 y 5 para un total de 133 sujetos obligados asociados a este conflicto de interés, donde primaron las palabras empresas y actividades agrícolas comerciales y económicas</li>
+  
+<li type="circle">Y finalmente se identificó un último grupo al cual se asociaron todos aquellos sujetos obligados que en su descripción del posible conflicto de interés manifestaron haber hecho parte de una lista de candidatos para cargos de elección popular</li>
+  
 </ul>
  <h2>Recomendaciones</h2>
  <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
@@ -315,10 +318,10 @@ cluster.fit(tfidf)
 <li type="circle">Reforzar capacitaciones con los sujetos obligados para el correcto diligenciamiento del aplicativo</li>
 <li type="circle">Establecer algún tipo de lista desplegable de conflictos de interes de acuerdo con la normatividad, con la cual los sujetos obligados se puedan identificar y de esta manera se facilia la clasificación de los posibles conflictos de interes</li> 
      
- <h2>Bibliografía</h2>  
-    <ul>
- <li type="circle">[Steven Bid, Edwan Klein & Edward Loper] <i>Natural Language Processing with Python</i>. O'REILLY, 2009.</li>
- <li type="circle">[Dirección de Participación, Transparencia y Servicio al Ciudadano] <i>Guía para la identificación y declaración del conflicto de intereses en el sector público colombiano</i>. Función Pública, 2019.</li>
- <li type="circle">333</li>
- <li type="circle">444</li>
-   </ul>    
+<h2>Bibliografía</h2>  
+<ul>
+<li type="circle">[Steven Bid, Edwan Klein & Edward Loper] <i>Natural Language Processing with Python</i>. O'REILLY, 2009.</li>
+<li type="circle">[Dirección de Participación, Transparencia y Servicio al Ciudadano] <i>Guía para la identificación y declaración del conflicto de intereses en el sector público colombiano</i>. Función Pública, 2019.</li>
+<li type="circle">333</li>
+<li type="circle">444</li>
+</ul>    
