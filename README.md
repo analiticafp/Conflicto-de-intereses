@@ -302,7 +302,7 @@ cluster.fit(tfidf)
     
 <li type="circle">Se categorizaron 306 descripciones de posibles bajo tres posibles conflictos de intereses estipulados en la guía de identificación proporcionada por la Entidad como resultado del tratamiento y modelado con la técnica Kmeans.</li>
    
-<li type="circle"></Del total de registros analizados y el resultado de los grupos se identifica que en el primer grupo en el cual se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.li>
+<li type="circle">Del total de registros analizados y el resultado de los grupos se identifica que en el primer grupo en el cual se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.</li>
   
 <li type="circle">Para el conflicto de interés clasificado como pertenencia a asociaciones o sociedades, se encontró que se pueden unir los grupos 4 y 6 para un total de 95 registros para los cuales el análisis identifico que dentro de la descripción del posible conflicto de interés están presentes las palabras sociedad y empresas o vínculos</li>
   
