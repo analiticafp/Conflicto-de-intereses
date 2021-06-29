@@ -322,6 +322,4 @@ cluster.fit(tfidf)
 <ul>
 <li type="circle">[Steven Bid, Edwan Klein & Edward Loper] <i>Natural Language Processing with Python</i>. O'REILLY, 2009.</li>
 <li type="circle">[Dirección de Participación, Transparencia y Servicio al Ciudadano] <i>Guía para la identificación y declaración del conflicto de intereses en el sector público colombiano</i>. Función Pública, 2019.</li>
-<li type="circle">333</li>
-<li type="circle">444</li>
 </ul>    
