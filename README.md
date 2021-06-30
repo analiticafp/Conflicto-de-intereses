@@ -126,6 +126,15 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios es un 
  
  <h2>Presentación y análisis de resultados</h2>
    
+<h3>Limpieza de datos</h3>
+  <p>Se analiza la información suministrada y se encuentran distintos problemas con el suministro de datos, en primer lugar los registros duplicados tanto en la base principal, como en las hojas subsecuentes, lo que dificulta ampliamente la consolidación de datos por cada individuo o razón social, se llegan a encontrar hasta 16 registros por documento de identidad solo en la base inicial. Un segundo aspecto es la no discriminación en la base inicial de personas naturales y jurídicas, ya que a partir de las bases adicionales es el NIT de las personas jurídicas el que permite realizar la indexación, sin embargo no se encuentra este dato en la base principal dificultando nuevamente la fácil discriminación en el conjunto de datos. 
+
+Por otra parte debido a que cada persona puede registrarse varias veces en el mismo aplicativo, bien sea por cambio en el tipo de informe, errores de diligenciamiento, o múltiple contratación, la información relacionada con bienes y rentas, así como las de conflictos de interés no cuentan con una estructura uniforme que permita utilizar métodos de análisis más robustos.
+En el proceso de limpieza de datos relacionados con bienes y rentas, se intentaron superar estos inconvenientes, sin embargo la calidad de los datos puede afectar de forma concreta el proceso de análisis de información.
+</p> 
+   
+   
+   
  <h3>Validación de datos</h3>
      
    <table>
@@ -309,6 +318,8 @@ cluster.fit(tfidf)
 <li type="circle">Se identifico un posible conflicto de interés relacionado con relación contractual o de negocios para el cual se unieron los registros del grupo 3 y 5 para un total de 133 sujetos obligados asociados a este conflicto de interés, donde primaron las palabras empresas y actividades agrícolas comerciales y económicas</li>
   
 <li type="circle">Y finalmente se identificó un último grupo al cual se asociaron todos aquellos sujetos obligados que en su descripción del posible conflicto de interés manifestaron haber hecho parte de una lista de candidatos para cargos de elección popular</li>
+
+<li type="circle">Globalmente se considera una posibilidad vincular el análisis de información de bienes y rentas al analisis de conflictos de interes, sin embargo se considera que con la estructura actual de los datos se requeriría otro enfoque de proyecto de análitica y revisión de calidad de datos, que requieran un trabajo mucho mas exhaustivo</li>   
   
 </ul>
  <h2>Recomendaciones</h2>
@@ -317,6 +328,9 @@ cluster.fit(tfidf)
 <li type="circle">Parametrizar el sistema de tal forma que no permita marcar un si y en la descripción incluir signos o simbolos o que no se tiene ningun conflicto de    interes</li> 
 <li type="circle">Reforzar capacitaciones con los sujetos obligados para el correcto diligenciamiento del aplicativo</li>
 <li type="circle">Establecer algún tipo de lista desplegable de conflictos de interes de acuerdo con la normatividad, con la cual los sujetos obligados se puedan identificar y de esta manera se facilia la clasificación de los posibles conflictos de interes</li> 
+<li type="circle">Analizar posibles cambios metodológicos que propendan por impedir la multiplicidad de registros, ya que esto afecta la calidad de los datos para futuros ejercicios de análisis</li> 
+<li type="circle">Llevar un registro central que permita resumir los principales resultados de las declaraciones de bienes y rentas, se debe pensar en una base de datos en un solo conjunto que permita simultaneamente visualizar los diferentes campos marcados por cada individuo.</li> 
+<li type="circle">El registro de personas naturales y juridicas deberia ser independiente uno de otro, sin embargo ante la dificultad que esto pueda generar, se sugiere mantener un indice numerico que permita en todas las bases de datos distinguir ambos tipos de declarantes.</li> 
      
 <h2>Bibliografía</h2>  
 <ul>
