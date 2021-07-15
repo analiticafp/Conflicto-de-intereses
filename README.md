@@ -353,7 +353,7 @@ cluster.fit(tfidf)
         stemmed_text = 0
     return stemmed_text
 ```
-<p> </p>
+<p>CONYUGUE COMPAÑERO PERMANENTE</p>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/e30a0d3dc20f7e1e615e1092feac837516648752/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
 </div>
