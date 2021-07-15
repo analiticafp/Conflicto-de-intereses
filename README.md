@@ -179,6 +179,7 @@ En el proceso de limpieza de datos relacionados con bienes y rentas, se intentar
 <p>Como se observa en la tabla anterior del total de registros de la base de datos se trabajara únicamente con 807 registros que describen los posibles conflictos de intrés</>
  
 <h3>Minería de texto</h3> 
+<h4>Enfoque de bolsa de palabras (Bag of words - BoW)</h4> 
 <p>Después de seleccionar las descripciones presentes en el conflicto de interés se realizó un proceso de limpieza donde se convierten las palabras a minúsculas, se quitan espacios en blanco innecesarios, se remueven puntuación y caracteres especiales, se eliminan las palabras vacías como artículos y preposiciones, además se reduce la palabra a su raíz para no sobredimensionar al modelo.</p>
    
    ```python
@@ -304,6 +305,8 @@ cluster.fit(tfidf)
      <td>1</td>
    </tr>
    </table> 
+<h4>Enfoque de reconocimiento de entidades nombradas (Named-entity recognition)</h4> 
+   
    
   
 <h2>Conclusiones</h2>
