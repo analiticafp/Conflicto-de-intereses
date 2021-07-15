@@ -361,7 +361,11 @@ cluster.fit(tfidf)
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/283f07532f341c456d3856379bc362b6294ec3be/imagenes/rep_legal.png" align="center" alt="Función Pública">
 </div>   
-   
+
+<p>PAREINTES</p>
+<div>   
+<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/5884a29bb23c556216171ab41bcb1913de5fc330/imagenes/parientes.png" align="center" alt="Función Pública">
+</div>   
 
 
 <h2>Conclusiones</h2>
