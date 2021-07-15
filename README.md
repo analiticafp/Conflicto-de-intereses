@@ -353,6 +353,10 @@ cluster.fit(tfidf)
         stemmed_text = 0
     return stemmed_text
 ```
+<div>   
+<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/2154b2dc3f0b3c539b43a51c9fb71b9422a16f78/imagenes/layout_set_logo.png" align="center" alt="Función Pública">
+</div>
+
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
     
@@ -366,7 +370,7 @@ cluster.fit(tfidf)
   
 <li type="circle">Y finalmente se identificó un último grupo al cual se asociaron todos aquellos sujetos obligados que en su descripción del posible conflicto de interés manifestaron haber hecho parte de una lista de candidatos para cargos de elección popular</li>
 
-<li type="circle">Globalmente se considera una posibilidad vincular el análisis de información de bienes y rentas al analisis de conflictos de interes, sin embargo se considera que con la estructura actual de los datos se requeriría otro enfoque de proyecto de análitica y revisión de calidad de datos, que requieran un trabajo mucho mas exhaustivo</li>   
+<li type="circle">Globalmente se considera una posibilidad vincular el análisis de información de bienes y rentas al analisis de conflictos de interes, sin embargo se considera que con la estructura actual de los datos se requeriría otro enfoque de proyecto de análitica y revisión de calidad de datos, que requieran un trabajo mucho mas exhaustivo</li> 
   
 </ul>
  <h2>Recomendaciones</h2>
