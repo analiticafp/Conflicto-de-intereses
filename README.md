@@ -353,8 +353,9 @@ cluster.fit(tfidf)
         stemmed_text = 0
     return stemmed_text
 ```
+<p> </p>
 <div>   
-<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/2154b2dc3f0b3c539b43a51c9fb71b9422a16f78/imagenes/layout_set_logo.png" align="center" alt="Función Pública">
+<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/bb7737beb12ecef3495245af49701b388a7e1e10/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
 </div>
 
 <h2>Conclusiones</h2>
