@@ -309,7 +309,39 @@ cluster.fit(tfidf)
    <p>Se busca ubicar y clasificar entidades nombradas en las descripciones de conflictos de intereses, según los tipos definidos o categorías. NER se utiliza ampliamente en muchos campos del procesamiento de lenguaje natural y fue aplicado en esta parte del ejercicio.</p>
    <br>
    <p>... </p>
-  
+   
+  <table>
+  <tr>
+    <th>Tipo</th>
+    <th>Palabras</th>
+    <th>Tipo</th>
+    <th>Palabras</th>
+  </tr>
+   <tr>
+    <td>Relación con las partes</td>
+    <td>Misma entidad, apoderado, convenio, contratos, contratación, asociación, representante legal.</td>
+    <td>Litigio o controversia/ decisión administrativa pendiente</td>
+    <td>Litigio, litigante, controversia, denuncia, pleito, decisión administrativa, demanda.</td>
+  </tr>
+   <tr>
+    <td>Organización, sociedad o asociación a la cual perteneció o continúa siendo miembro</td>
+    <td>Organización, sociedad, asociación, actividad de negocio, tienda, local, negocio, almacén, emprendimiento , establecimiento.</td>
+    <td>Denuncia penal o disciplinaria</td>
+    <td>Denuncia, penal , disciplinario, actuación administrativa.</td>
+  </tr>
+  <tr>
+    <td>Acreedor/deudor</td>
+    <td>Deudor, crédito, préstamo, hipoteca, acreedor.</td>
+    <td>Curador o tutor del interesado</td>
+    <td>Curador, tutor.</td>
+  </tr>
+  <tr>
+    <td>Heredero o legatario</td>
+    <td>Herencia, heredero, sucesor.</td>
+    <td>Participación directa/asesoría de alguna de las partes interesadas</td>
+    <td>Asesor, socio.</td>
+  </tr>
+  </table>
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
     
