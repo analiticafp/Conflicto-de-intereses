@@ -355,7 +355,7 @@ cluster.fit(tfidf)
 ```
 <p> </p>
 <div>   
-<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/bb7737beb12ecef3495245af49701b388a7e1e10/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
+<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/e30a0d3dc20f7e1e615e1092feac837516648752/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
 </div>
 
 <h2>Conclusiones</h2>
