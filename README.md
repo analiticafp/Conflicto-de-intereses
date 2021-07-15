@@ -305,9 +305,10 @@ cluster.fit(tfidf)
      <td>1</td>
    </tr>
    </table> 
-<h4>Enfoque de reconocimiento de entidades nombradas (Named-entity recognition)</h4> 
-   
-   
+<h4>Enfoque de reconocimiento de entidades nombradas (Named-entity recognition - NER)</h4> 
+   <p>Se busca ubicar y clasificar entidades nombradas en las descripciones de conflictos de intereses, según los tipos definidos o categorías. NER se utiliza ampliamente en muchos campos del procesamiento de lenguaje natural y fue aplicado en esta parte del ejercicio.</p>
+   <br>
+   <p>... </p>
   
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
