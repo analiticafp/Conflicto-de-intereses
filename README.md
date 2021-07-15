@@ -357,6 +357,12 @@ cluster.fit(tfidf)
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/e30a0d3dc20f7e1e615e1092feac837516648752/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
 </div>
+<p>REPRESNTANTE LEGAL</p>
+<div>   
+<img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/283f07532f341c456d3856379bc362b6294ec3be/imagenes/rep_legal.png" align="center" alt="Función Pública">
+</div>   
+   
+
 
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
