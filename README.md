@@ -344,9 +344,14 @@ cluster.fit(tfidf)
    <p>Realizado el preprocesamiento, se ejecutan funciones de búsqueda de acuerdo a los tipos de conflicto de intereses definidos y sus entidades.</p>
    
    
-```python
-cluster = KMeans(n_clusters=6, init='k-means++',max_iter = 1500)
-cluster.fit(tfidf)
+```python 
+#Ejemplo función
+  def relacion_partes(x):
+    if re.search(r"apoder|conveni|contrat|asociacion|represent.legal|mism.entid",x):
+        stemmed_text = 1
+    else:
+        stemmed_text = 0
+    return stemmed_text
 ```
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
