@@ -389,19 +389,24 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/283f07532f341c456d3856379bc362b6294ec3be/imagenes/rep_legal.png" align="center" alt="Función Pública">
 </div>   
 
-<p>PAREINTES</p>
+<h4>Parientes</h4>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/5884a29bb23c556216171ab41bcb1913de5fc330/imagenes/parientes.png" align="center" alt="Función Pública">
 </div>   
 
    
-<p>otros conflictos</p>
+<h4> Otros Conflictos</h4>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/37a0e286ca8017f869555784b07997a888cf0869/imagenes/otros_posibles.png" align="center" alt="Función Pública">
 </div> 
 
-   
-   
+<p>En la revisión de las descripciones de conflictos de interés adicionales, de acuerdo con las gráficas anteriores, se evidencia que de 1.107 sujetos obligados que manifestaron tener un conflicto de interés se pueden clasificar e identificar 548 registros donde los más representativos de acuerdo con las gráficas anteriores son por organización o sociedad con 226 registros, Litigio o controversia con 84 registros, lista de candidatos con 81, relación con las partes con 74 y participación directa con 71 registros</p>
+  
+<p>Y con menor participación, se identifican conflictos de interés asociados a herederos, denuncia penal, acreedor deudor. Adicionalmente, se identifican 6 sujetos obligados que en esta descripción registran más de un conflicto de interés</p>
+  
+<p>Así mismo, es importante mencionar que de los 1.107 registros que tienen si en conflicto de interés 559 no se pueden clasificar puesto que hay 244 registros que marcaron el si pero en la descripción manifiestan que no tienen ningún conflicto de interés relacionado, y el grupo restante se encuentran descripciones, como por ejemplo, mi hijo, mi esposa, amigos, carro, entre otros, que dificultan la identificación y clasificación del posible conflicto de interés.</p>
+
+      
    
 <h2>Conclusiones</h2>
 <p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>    
