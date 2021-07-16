@@ -305,6 +305,21 @@ cluster.fit(tfidf)
      <td>1</td>
    </tr>
    </table> 
+   
+  <p>Se categorizaron 306 descripciones bajo tres posibles conflictos de intereses estipulados en la guía de identificación proporcionada por la Entidad como resultado del tratamiento y modelado con la técnica Kmeans.</li>
+  
+<li type="circle">Pertenencia a asociaciones o sociedades, se encontró que se pueden unir los grupos 4 y 6 para un total de 95 registros para los cuales el análisis identifico que dentro de la descripción del posible conflicto de interés están presentes las palabras sociedad y empresas o vínculos</li>
+  
+  
+<li type="circle">Relación contractual o de negocios para el cual se unieron los registros del grupo 3 y 5 para un total de 133 sujetos obligados asociados a este conflicto de interés, donde primaron las palabras empresas y actividades agrícolas comerciales y económicas</li>
+  
+  
+<li type="circle">Lista de candidatos, en este grupo se encuentran todos aquellos sujetos obligados que manifestaros haber sico parate de una lista de candidatos de cargos de eleccion popular</li>
+  
+
+Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.</li>
+  
+      
 <h4>Enfoque de reconocimiento de entidades nombradas (Named-entity recognition - NER)</h4> 
    <p>Se busca ubicar y clasificar entidades nombradas en las descripciones de conflictos de intereses, según los tipos definidos o categorías. NER se utiliza ampliamente en muchos campos del procesamiento de lenguaje natural y fue aplicado en esta parte del ejercicio.</p>
    <br>
@@ -353,11 +368,23 @@ cluster.fit(tfidf)
         stemmed_text = 0
     return stemmed_text
 ```
-<p>CONYUGUE COMPAÑERO PERMANENTE</p>
+<h4>Conyugue compañero permanente</h4>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/e30a0d3dc20f7e1e615e1092feac837516648752/imagenes/conyugue_companero.png" align="center" alt="Función Pública">
 </div>
-<p>REPRESNTANTE LEGAL</p>
+  
+<p>En la descripción de conflictos de interés de conyugue o compañero se identificaron en total 215 registros con los que se puede hacer una clasificación e identificación de los posibles conflictos de interés que se presentan esta tipología donde los más representativos de acuerdo con las tablas anteriormente presentadas son:</p>
+  
+<p>Relación con las partes: En el que se identificaron 144 sujetos obligados que manifestaron que su conyugue o compañero puede tener algún conflicto de interés de este tipo al trabajar en la misma entidad, al actuar como apoderado, ser represente legal o pertenecer a alguna empresa o sociedad</p>
+  
+<p>Relación Directa: En la cual se agrupan 25 sujetos obligados que en su descripción del posible conflicto de interés manifiesta que su conyugue o compañero presta servicios de asesoría o es socio de alguna junta directiva o empresa.</p>
+  
+<p>Y con menor participación se encuentran los conflictos de interés por litigio o controversia con 14 sujetos obligados, organización o sociedad con 17 sujetos obligados, entre otros.</p>
+
+<p>Finalmente, del total de 1. 733de sujetos obligados que reportaron un posible conflicto de interés, se evidencia que en 1.518 registros no se pueden clasificar dado que 423 sujetos obligados, aunque marcaron si en la descripción manifiestan no tener ningún conflicto de interés, mientras que el grupo restante la descripción no es clara, como, por ejemplo, es mi esposo, depende económicamente de mí, compartimos gastos, etc.</p>
+  
+  
+<h4>Representante Legal</h4>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/283f07532f341c456d3856379bc362b6294ec3be/imagenes/rep_legal.png" align="center" alt="Función Pública">
 </div>   
@@ -377,18 +404,8 @@ cluster.fit(tfidf)
    
    
 <h2>Conclusiones</h2>
-<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>
-    
-<li type="circle">Se categorizaron 306 descripciones de posibles bajo tres posibles conflictos de intereses estipulados en la guía de identificación proporcionada por la Entidad como resultado del tratamiento y modelado con la técnica Kmeans.</li>
+<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>    
    
-<li type="circle">Del total de registros analizados y el resultado de los grupos se identifica que en el primer grupo en el cual se encuentran 501 sujetos obligados conformado por aquellos quienes en la descripción de posible conflicto de interés no fueron muy claros o son casos muy particulares que no permite su identificación y agrupación.</li>
-  
-<li type="circle">Para el conflicto de interés clasificado como pertenencia a asociaciones o sociedades, se encontró que se pueden unir los grupos 4 y 6 para un total de 95 registros para los cuales el análisis identifico que dentro de la descripción del posible conflicto de interés están presentes las palabras sociedad y empresas o vínculos</li>
-  
-<li type="circle">Se identifico un posible conflicto de interés relacionado con relación contractual o de negocios para el cual se unieron los registros del grupo 3 y 5 para un total de 133 sujetos obligados asociados a este conflicto de interés, donde primaron las palabras empresas y actividades agrícolas comerciales y económicas</li>
-  
-<li type="circle">Y finalmente se identificó un último grupo al cual se asociaron todos aquellos sujetos obligados que en su descripción del posible conflicto de interés manifestaron haber hecho parte de una lista de candidatos para cargos de elección popular</li>
-
 <li type="circle">Globalmente se considera una posibilidad vincular el análisis de información de bienes y rentas al analisis de conflictos de interes, sin embargo se considera que con la estructura actual de los datos se requeriría otro enfoque de proyecto de análitica y revisión de calidad de datos, que requieran un trabajo mucho mas exhaustivo</li> 
   
 </ul>
