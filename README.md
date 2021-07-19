@@ -427,10 +427,19 @@ Por otro lado, fueron 5440 registros que no fueron categorizados donde 1254 hace
       
    
 <h2>Conclusiones</h2>
-<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto, dado que en su mayoría la descripción del conflicto de intertes es igual a al campo diligenciado, es decir, en el caso de la hoja de conyuge la descripción dice es mi espos@, en la hoja de parientes, la descripción esta asociada a dependientes economicos y el tipo de parentezco. Por lo anterior el analisis con mineria de texto se realizo únicamente para la hoja de posibles conflictos de interés donde se encontro lo siguiente</p>    
+<p> Una vez analizadas la base de datos relacionada con la identificación de conflictos intereses por el reporte de Ley 2013, se concluye que la base de datos tiene problemas de calidad,lo que dificulta el procesamiento y el analisis de los datos, de otra parte, del total de hojas del archivo que contienen infomación de conflictos de interes no fue viable el analisis por analitica de texto</p>    
    
 <li type="circle">Globalmente se considera una posibilidad vincular el análisis de información de bienes y rentas al analisis de conflictos de interes, sin embargo se considera que con la estructura actual de los datos se requeriría otro enfoque de proyecto de análitica y revisión de calidad de datos, que requieran un trabajo mucho mas exhaustivo</li> 
   
+<li type="circle">En total se identificaron y clasificaron 1.113 posibles conflictos de interés descritos por los sujetos obligados en la sección correspondiente a cónyuge o compañero, representante legal, parientes y otros posibles conflictos de interés, de este total el 40% corresponde a relación con las partes seguido de un 25% pertenecientes a una organización y en menor participación se conflictos relacionados con participación directa, litigio o controversia y lista de candidatos</li> 
+ 
+<li type="circle">Así mismo, se puede identificar que de los 1.113 conflictos de interés clasificados el 62% corresponde a sujetos obligados que manifiestan ser contratistas.</li> 
+
+<li type="circle">En la sección de marcación de conflicto de interés por litigio controversia o denuncia penal a pesar de que 43 sujetos obligados marcaron que si existe un posible conflicto solo existen dos descripciones relacionadas con el tema, en cuanto a los 41 restantes la descripción es que no existe ningún conflicto de interés.  Adicionalmente, se evidencia que, aunque existe esta sección en particular, los posibles conflictos de interés relacionados con este tema se reportaron en la sección de otros posibles conflictos e interés y no en la dispuesta para tal fin.</li> 
+          
+<li type="circle">En la sección de conflicto de interés por amistad o enemistad se encontraron 45 sujetos obligados que manifestar presentar un posible conflicto de interés por este tipo, sin embargo, las descripciones no corresponden a un posible conflicto de interés o son que no existe ningún conflicto.</li> 
+  
+
 </ul>
  <h2>Recomendaciones</h2>
  <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
