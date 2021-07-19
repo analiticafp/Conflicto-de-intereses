@@ -328,12 +328,14 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
   <tr>
     <th>Tipo</th>
     <th>Entidad</th>
+    <th></th>
     <th>Tipo</th>
     <th>Entidad</th>
   </tr>
    <tr>
     <td>Relación con las partes</td>
     <td>Misma entidad, apoderado, convenio, contratos, contratación, asociación, representante legal.</td>
+    <td></td>
     <td>Litigio o controversia/ decisión administrativa pendiente</td>
     <td>Litigio, litigante, controversia, denuncia, pleito, decisión administrativa, demanda.</td>
   </tr>
@@ -346,12 +348,14 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
   <tr>
     <td>Acreedor/deudor</td>
     <td>Deudor, crédito, préstamo, hipoteca, acreedor.</td>
+    <td></td>
     <td>Curador o tutor del interesado</td>
     <td>Curador, tutor.</td>
   </tr>
   <tr>
     <td>Heredero o legatario</td>
     <td>Herencia, heredero, sucesor.</td>
+    <td></td>
     <td>Participación directa/asesoría de alguna de las partes interesadas</td>
     <td>Asesor, socio.</td>
   </tr>
