@@ -342,6 +342,7 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
    <tr>
     <td>Organización, sociedad o asociación a la cual perteneció o continúa siendo miembro</td>
     <td>Organización, sociedad, asociación, actividad de negocio, tienda, local, negocio, almacén, emprendimiento , establecimiento.</td>
+     <td></td>
     <td>Denuncia penal o disciplinaria</td>
     <td>Denuncia, penal , disciplinario, actuación administrativa.</td>
   </tr>
