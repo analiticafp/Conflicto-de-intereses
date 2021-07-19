@@ -385,6 +385,7 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
   
   
 <h4>Representante Legal</h4>
+<p>Se identificaron 56 registros que presentan descripciones, dada la aparición de palabras clave fue posible identificar 11 descripciones que hacen referencia a relación de las partes y 1 registro que hace referencia a participación directa/asesoría de alguna de las partes interesadas. Por otro lado, los 44 registros que no fueron categorizados se dividen así según sus descripciones: 15 hacen referencia a ningún conflicto, 2 no aplica, 14 mencionan no tener o que no existe el conflicto, 3 mencionan que si lo tienen pero no lo describen y 10 registros presentan descripciones que no pudieron se categorizadas.</p>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/283f07532f341c456d3856379bc362b6294ec3be/imagenes/rep_legal.png" align="center" alt="Función Pública">
 </div>   
