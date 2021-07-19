@@ -403,7 +403,8 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
 <li type="circle"> 14 denuncia penal o disciplinaria</li>
 <li type="circle"> 15 heredero o legatario</li>
 <li type="circle"> 42 participación directa/asesoría de alguna de las partes interesadas</li>
-Por otro lado, fueron 5440 que no fue posible categorizar donde 1223 hacen referencia a ningún conflicto 
+    <br>
+Por otro lado, fueron 5440 registros que no fueron categorizados donde 1254 hacen referencia a ningún conflicto y 4186 presentan descripciones que no son posibles de clasificar, en algunas solo enmarcan el parentesco y en otros la descripción no dice algo significativo. Ejemplo: convivencia, tiene diabetes, vivienda y alimentación, otros.
 </p>
 
    
