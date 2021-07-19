@@ -393,7 +393,18 @@ Finalmente, se encuentran 501 sujetos obligados conformado por aquellos quienes 
 <h4>Parientes</h4>
 <div>   
 <img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/5884a29bb23c556216171ab41bcb1913de5fc330/imagenes/parientes.png" align="center" alt="Función Pública">
-</div>   
+</div>
+  <p>Para las descripciones de parientes se identificaron 5778 registros de los cuales 339 fueron categorizados según su tipo de conflicto de la siguiente forma: 
+    <li type="circle">212 relación con las partes</li>
+<li type="circle"> 16 litigio o controversia</li>
+<li type="circle"> 7 acreedor o deudor</li>
+<li type="circle"> 3 curador o tutor del interesado</li>
+<li type="circle"> 30 organización, sociedad o asociación a la cual perteneció o continúa siendo miembro</li>
+<li type="circle"> 14 denuncia penal o disciplinaria</li>
+<li type="circle"> 15 heredero o legatario</li>
+<li type="circle"> 42 participación directa/asesoría de alguna de las partes interesadas</li>
+Por otro lado, fueron 5440 que no fue posible categorizar donde 1223 hacen referencia a ningún conflicto 
+</p>
 
    
 <h4> Otros Conflictos</h4>
