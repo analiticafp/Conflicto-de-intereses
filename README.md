@@ -449,7 +449,8 @@ Por otro lado, fueron 5440 registros que no fueron categorizados donde 1254 hace
 <li type="circle">Establecer algún tipo de lista desplegable de conflictos de interes de acuerdo con la normatividad, con la cual los sujetos obligados se puedan identificar y de esta manera se facilia la clasificación de los posibles conflictos de interes</li> 
 <li type="circle">Analizar posibles cambios metodológicos que propendan por impedir la multiplicidad de registros, ya que esto afecta la calidad de los datos para futuros ejercicios de análisis</li> 
 <li type="circle">Llevar un registro central que permita resumir los principales resultados de las declaraciones de bienes y rentas, se debe pensar en una base de datos en un solo conjunto que permita simultaneamente visualizar los diferentes campos marcados por cada individuo.</li> 
-<li type="circle">El registro de personas naturales y juridicas deberia ser independiente uno de otro, sin embargo ante la dificultad que esto pueda generar, se sugiere mantener un indice numerico que permita en todas las bases de datos distinguir ambos tipos de declarantes.</li> 
+<li type="circle">El registro de personas naturales y juridicas deberia ser independiente uno de otro, sin embargo ante la dificultad que esto pueda generar, se sugiere mantener un indice numerico que permita en todas las bases de datos distinguir ambos tipos de declarantes.</li>
+<li type="circle">El enfoque de entidades nombradas tiene un mejor resultado para los datos disponibles en el aplicativo con una clasificación del total de registros de un 49% superior al 38% del ejercicio realizado con el enfoque de bolsa de palabras. Por lo tanto, si añadimos más entidades nombradas al modelo que para este ejercicio conto con 40 Entidades nombradas para 8 tipos de conflictos el rendimiento en su clasificación podría aumentar.</li> 
      
 <h2>Bibliografía</h2>  
 <ul>
